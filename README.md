@@ -170,6 +170,6 @@ O relatório exibe:
 
 <div align="center">
 
-*Desenvolvido com 💜 como parte de um desafio de aprendizado em Qualidade de Software*
+*Desafio realizado como parte da avaliação da disciplina de Programação para Automação de Testes*
 
 </div>
